@@ -1,4 +1,6 @@
-# sales_dashboard-afame-technologies-internship
+# Sales_Insights_Dashboard
+
+-afame-technologies-internship
 
 🌟 2019 Sales Highlights: A Record-Breaking Year! 🌟
 
